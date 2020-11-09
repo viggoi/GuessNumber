@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "GuessNumber\GuessNumber.csproj", "{1AE6A97D-ABAF-4F13-9645-6CE07790C45A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberGUI", "GuessNumberGUI\GuessNumberGUI.csproj", "{C0FD8AA3-E3C8-406B-9DBC-371B2736F908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE6A97D-ABAF-4F13-9645-6CE07790C45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE6A97D-ABAF-4F13-9645-6CE07790C45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE6A97D-ABAF-4F13-9645-6CE07790C45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE6A97D-ABAF-4F13-9645-6CE07790C45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0FD8AA3-E3C8-406B-9DBC-371B2736F908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FD8AA3-E3C8-406B-9DBC-371B2736F908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FD8AA3-E3C8-406B-9DBC-371B2736F908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FD8AA3-E3C8-406B-9DBC-371B2736F908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E97A5B-A2D1-463E-B6B1-B58C29977DA4}
+	EndGlobalSection
+EndGlobal
